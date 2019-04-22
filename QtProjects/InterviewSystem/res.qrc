@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/intro.png</file>
+        <file>image/concept.png</file>
+        <file>image/spirit.png</file>
+        <file>image/1.png</file>
+        <file>image/2.png</file>
+        <file>image/HR.png</file>
+        <file>image/sign.png</file>
+        <file>image/out.png</file>
+        <file>image/login.png</file>
+        <file>image/boss.png</file>
+        <file>image/apply.png</file>
+        <file>image/viewer.png</file>
+        <file>image/applicantview.png</file>
+        <file>image/interview.png</file>
+    </qresource>
+</RCC>
